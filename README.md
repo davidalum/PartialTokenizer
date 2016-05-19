@@ -1,6 +1,3 @@
-David Alummoottil
-Computer Architecture - Assignment 1
-
 Description:
 This program allows the user to input a string on the command line which will either be a floating point number or an integer which can be in either decimal, hexadeimal, or octal form. The program will then output each of these "tokens" one at a time along with the type of number it is. 
 
